@@ -1,16 +1,14 @@
-Open Wallpaper Engine
+Wallpaper Engine
 =========
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/haren724/open-wallpaper-engine-mac)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/MrWindDog/wallpaper-engine-mac)
 
-An open source wallpaper engine for mac (which is not relative to the existing one on Steam)
+An open source wallpaper engine for macOS (which is not relative to the existing one on Steam)
 
 <p align="center">
-<a href="http://haren724.top/documentation/open_wallpaper_engine">Documentation</a>
+<a href="https://example.com">Documentation (TODO)</a>
 ·
 <a href="https://github.com/haren724/open-wallpaper-engine-mac/blob/main/AUTHORS.md">Authors</a>
-·
-<a href="https://testflight.apple.com/join/9fDQc6dA">Testflight</a>
 </p>
 
 Menu
@@ -46,6 +44,12 @@ Menu
 Download the .dmg file to local and drag the `.app` application file under `/Applications` folder
 
 ## Usage
+Hey!
+This is a revamp of "Open Wallpaper Engine" by Haren Chen,
+from adding new features to refining existing ones, this new
+project serves as a continuation to his original concept.
+
+## Usage (Original from Haren Chen)
 Hi there!
 I hosted a chat group on QQ: `228230228`  
 Guys If you are interested in contributing to this project, please 
@@ -86,7 +90,7 @@ If you would like to make contribute to this project or for some other purposes,
 -----
 First, fork and clone your forked repo or just clone this repo directly if you don't plan to be a contributor. If you're in China, you'd better set up a HTTPS Proxy first to avoid failure due to bad connection or poor download speed.
 ```sh
-git clone https://github.com/haren724/open-wallpaper-engine-mac
+git clone https://github.com/MrWindDog/wallpaper-engine-mac
 ```
 
 And then open the directory in Xcode.
@@ -102,6 +106,4 @@ Then press `command ⌘ + R` to build and run
 
 
 ## Documentation
-(newly update): a testing [DocC Documentation](http://haren724.top/documentation/open_wallpaper_engine) is currently on stage. Check it anytime if you need.
-
-(old): This project's documentation can be build with `docc`. I'll upload the documentation link automatically built by github action here later.
+This project's documentation can be build with `docc`. I'll upload the documentation link automatically built by github action here later.

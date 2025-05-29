@@ -102,6 +102,17 @@
         }
       }
     },
+    "@winddog" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "@winddog"
+          }
+        }
+      }
+    },
     "%@" : {
 
     },

@@ -6,8 +6,11 @@ Maintainers (sorted alphabetically)
 Maintainers are actively supporting the project and have made substantial contributions to the repository.<br>
 They have admin access to the repo and provide support reviewing issues and pull requests.
 
-* **[Haren Chen](https://github.com/haren724)**
+* **[MrWindDog](https://github.com/mrwinddog)**
    * The Founder of this repo 
+   
+* **[Haren Chen](https://github.com/haren724)**
+   * The Founder of the original repo 
 
 Contributors  (sorted alphabetically)
 -------------------------------------
