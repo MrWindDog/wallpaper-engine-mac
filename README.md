@@ -57,7 +57,8 @@ join this chat so that we could communicate much easier.
 
 大家好呀！ 
 我在QQ上建了个群：`228230228` 
-如果您有兴趣为这个项目做出贡献，不介意的话加一下呗，以便我们可以更方便地沟通。  
+如果您有兴趣为这个项目做出贡献，不介意的话加一下呗，以便我们可以更方便地沟通。
+
 
 
 ### Import from Wallpaper Engine (on Steam)
