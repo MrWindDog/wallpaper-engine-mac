@@ -8,7 +8,7 @@ An open source wallpaper engine for macOS (which is not relative to the existing
 <p align="center">
 <a href="https://example.com">Documentation (TODO)</a>
 ·
-<a href="https://github.com/haren724/open-wallpaper-engine-mac/blob/main/AUTHORS.md">Authors</a>
+<a href="https://github.com/MrWindDog/wallpaper-engine/blob/main/AUTHORS.md">Authors</a>
 </p>
 
 Menu
@@ -57,7 +57,8 @@ join this chat so that we could communicate much easier.
 
 大家好呀！ 
 我在QQ上建了个群：`228230228` 
-如果您有兴趣为这个项目做出贡献，不介意的话加一下呗，以便我们可以更方便地沟通。
+如果您有兴趣为这个项目做出贡献，不介意的话加一下呗，以便我们可以更方便地沟通。  
+
 
 ### Import from Wallpaper Engine (on Steam)
 
