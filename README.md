@@ -8,7 +8,7 @@ An open source wallpaper engine for macOS (which is not relative to the existing
 <p align="center">
 <a href="https://example.com">Documentation (TODO)</a>
 ·
-<a href="https://github.com/MrWindDog/wallpaper-engine/blob/main/AUTHORS.md">Authors</a>
+<a href="https://github.com/MrWindDog/wallpaper-engine-mac/blob/main/AUTHORS.md">Authors</a>
 </p>
 
 Menu
